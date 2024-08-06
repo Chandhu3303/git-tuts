@@ -30,7 +30,7 @@ Edit 'myproject/settings.py' to add your new app to the 'TEMPLATES' list
 
           TEMPLATES = [
               ...
-              'DIRS': [   BASE_DIR,'templates'],
+              'DIRS': [BASE_DIR,'templates'],
           ]
 
 
