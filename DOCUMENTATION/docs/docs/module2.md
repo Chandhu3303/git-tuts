@@ -260,3 +260,4 @@ Edit **mypro/urls.py** to include your app’s URLs:
         path("",include('newapp.urls'))
     ]
 
+              REVISIT HOMEPAGE IF YOU GOT STUCK, HAPPY LEARNING!!
