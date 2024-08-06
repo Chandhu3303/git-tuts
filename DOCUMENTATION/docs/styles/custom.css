@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #1a1a1a;
+}
+
+.md-nav__link {
+    color: #007bff;
+}
+
+.md-footer {
+    background-color: #f8f9fa;
+}

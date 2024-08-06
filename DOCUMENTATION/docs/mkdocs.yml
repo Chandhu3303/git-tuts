@@ -1,0 +1,10 @@
+site_name: DJANGO
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Module1: module1.md
+  - Module2: module2.md
+extra_css:
+  - styles/custom.css
+
