@@ -1,0 +1,10 @@
+site_name: DJANGO
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Basic WebApplication: module1.md
+  - Basic CURD Operations: module2.md
+extra_css:
+  - styles/custom.css
+
